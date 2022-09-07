@@ -1,2 +1,2 @@
-# bit-stream-template
+# bot-stream-template
 Template for TwitterDev stream
